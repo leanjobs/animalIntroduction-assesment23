@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: e13c7c408ddd3274292ce66d3fda2a82
+  - enabled: 1
+    path: Assets/Scenes/materi.unity
+    guid: 5e375d73e2931ac4681275865c3bf882
+  - enabled: 1
+    path: Assets/Scenes/video.unity
+    guid: 24d4003e3d1772641b0578a04565b8e2
+  - enabled: 1
+    path: Assets/Scenes/rangkuman.unity
+    guid: 4d04fe526ed91914a9d8d77f73b30030
+  - enabled: 1
+    path: Assets/Scenes/rk_anakAyam.unity
+    guid: 53c89536c1929fe43bd4d6b11cda1fa1
+  - enabled: 1
+    path: Assets/Scenes/rk_anakItik.unity
+    guid: 86c50d2bd7ee010419c862d6d59c5261
+  - enabled: 1
+    path: Assets/Scenes/rk_ayamBetina.unity
+    guid: 6ac1a99f1197bab4cbb940aec803880b
+  - enabled: 1
+    path: Assets/Scenes/rk_ayamJantan.unity
+    guid: dd08272eb2aead64a8a2edbe18e69cd5
+  - enabled: 1
+    path: Assets/Scenes/rk_domba.unity
+    guid: 20d35cad042879d488887e43a089c556
+  - enabled: 1
+    path: Assets/Scenes/rk_kelinci.unity
+    guid: 25236c882ac9ccb4a9034229a9f76d77
+  - enabled: 1
+    path: Assets/Scenes/rk_kuda.unity
+    guid: 268e8af298ba56149953f503215b5da6
+  - enabled: 1
+    path: Assets/Scenes/rk_merpati.unity
+    guid: a8ddd89f135597444b4f827f46de4a06
+  - enabled: 1
+    path: Assets/Scenes/rk_puyuh.unity
+    guid: b6bb23ee4ea2e9d4691cc6a934cdd0b0
+  - enabled: 1
+    path: Assets/Scenes/rk_sapi.unity
+    guid: 52e95cce888527342b937e87bf1ed25f
+  m_configObjects: {}
